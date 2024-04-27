@@ -1,0 +1,33 @@
+- Blood Type: A+
+  - Availability: 5 units
+  - Requirements: 2 units
+
+- Blood Type: B-
+  - Availability: 3 units
+  - Requirements: 1 unit
+
+- Blood Type: O+
+  - Availability: 10 units
+  - Requirements: 4 units
+
+- Blood Type: AB+
+  - Availability: 2 units
+  - Requirements: 3 units
+
+- Blood Type: O-
+  - Availability: 8 units
+  - Requirements: 2 units
+
+- Blood Type: A-
+  - Availability: 4 units
+  - Requirements: 1 unit
+
+- Blood Type: B+
+  - Availability: 6 units
+  - Requirements: 2 units
+
+- Blood Type: AB-
+  - Availability: 1 unit
+  - Requirements: 1 unit
+
+Note: These are dummy figures for illustrative purposes only and do not represent actual blood availability and requirements at any specific hospital.
